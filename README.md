@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img alt="Hotspot" src="https://github.com/caiquedevs/Hotspot/blob/master/github/template.png" width="100%">
+  <img alt="Hotspot" src="https://github.com/caiquedevs/Hotspot/blob/master/github/template.svg" width="100%">
   <img src="https://github.com/caiquedevs/Hotspot/blob/master/github/demo.gif" width="100%" />
 </p>
 
@@ -23,7 +23,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
   - Redux
   - Redux Persist
-  - Redux Saga
   - React-toastify
   - Styled-Components
 
