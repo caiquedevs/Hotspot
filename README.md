@@ -22,19 +22,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
   - Redux
-  - Redux Persist
+  - Redux-persist
   - React-toastify
-  - Styled-Components
+  - Styled-components
 
 ## 💻 Projeto
 
 Um Hotspot é um efeito visual que usamos para mostrar algo novo em uma interface. Geralmente é uma bolinha com alguma animação tentando chamar a atenção do usuário, e ao clicar na bolinha abre-se uma caixa com a explicação.
 
-Para criar um efeito visual insira em qualquer tag Html a seguinte className: ItemHotSpot.
-Para que o elemento seja capturado ele deve conter um ID unico.
-Aṕos a captura e a criação do Hotspot será exibido um modal onde poderá inserir um título,
+- Para criar um efeito visual insira em qualquer tag Html a seguinte className: ItemHotSpot.
+- Para que o elemento seja capturado ele deve conter um ID unico.
+- Após a captura e a criação do Hotspot será exibido um modal onde poderá inserir um título,
 e um texpo para seu hotspot.
-Para exibir e fechar seu hotspot apenas click em cima do botão vermelho, que indica um hotspot.
+- Para abrir e fechar seu hotspot apenas clique em cima do botão vermelho, que indica um hotspot.
 
 ## 🔖 Layout
 
